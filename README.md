@@ -1,4 +1,4 @@
-### Hi there, I'm Maria 👋
+### Hi there, I'm Maria Bespalchenko 👋
 ### I'm a QA engineer
 👩‍💻 I’m currently working on something cool!<br/>
 🚀 I like to move forward and learn new things <br/>
@@ -19,6 +19,8 @@
   <a href="https://www.jetbrains.com/ru-ru/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="idea" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://swagger.io/tools/swagger-ui/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swaggerui" width="40" height="40"/> </a> 
+
 <a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/ru/software/confluence" target="_blank" rel="noreferrer"> <img src="https://www.appnovation.com/sites/default/files/2019-06/techservicelogo_Confluence.svg" alt="confluence" width="40" height="40"/> </a>
 <a href="https://www.soapui.org" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_25/77_soapui.5113237b76.svg" alt="soapui" width="40" height="40"/> </a> 
