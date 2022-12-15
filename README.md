@@ -1,5 +1,5 @@
 ### Hi there, I'm Maria 👋
-### I'm a junior QA engineer
+### I'm a QA engineer
 👩‍💻 I’m currently working on something cool!<br/>
 🚀 I like to move forward and learn new things <br/>
 🗣️ Ask me about software testing<br/>
