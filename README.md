@@ -1,6 +1,5 @@
 ### Hi there, I'm Maria 👋
 ### I'm a junior QA engineer
-📝 Examples of my work [test documentation](https://github.com/marybes/test_documentation) <br/>
 👩‍💻 I’m currently working on something cool!<br/>
 🚀 I like to move forward and learn new things <br/>
 🗣️ Ask me about software testing<br/>
@@ -23,6 +22,8 @@
 <a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/ru/software/confluence" target="_blank" rel="noreferrer"> <img src="https://www.appnovation.com/sites/default/files/2019-06/techservicelogo_Confluence.svg" alt="confluence" width="40" height="40"/> </a>
 <a href="https://www.soapui.org" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_25/77_soapui.5113237b76.svg" alt="soapui" width="40" height="40"/> </a> 
+<a href="https://www.virtualbox.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> </a> 
 
+  
 </p>
 
