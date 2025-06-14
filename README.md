@@ -24,8 +24,7 @@
 <a href="https://www.atlassian.com/ru/software/confluence" target="_blank" rel="noreferrer"> <img src="https://www.appnovation.com/sites/default/files/2019-06/techservicelogo_Confluence.svg" alt="confluence" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.virtualbox.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="virtualbox" width="40" height="40"/> </a> 
 
 </p>
 
